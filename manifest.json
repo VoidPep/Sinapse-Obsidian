@@ -1,0 +1,10 @@
+{
+  "id": "sinapse",
+  "name": "Sinapse",
+  "version": "0.1.0",
+  "minAppVersion": "1.5.0",
+  "description": "Escolha as pastas indexadas, reindexe e conecte o Claude Code à base de conhecimento Sinapse das suas notas.",
+  "author": "VoidPep",
+  "authorUrl": "https://github.com/VoidPep",
+  "isDesktopOnly": true
+}
